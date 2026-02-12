@@ -1,10 +1,11 @@
 <h1>👨‍💻 Software Development Student</h1>
 
-<h3>💻 .NET</h3>
+<h3>💻 </h3>
 <ul>
-  <li>C#</li>
+  <li>.NET, C#</li>
   <li>Razor Pages</li>
   <li>MAUI</li>
+  <li>SQL</li>
   <li>Entity FrameWork</li>
 </ul>
 <h3>🌐</h3>
