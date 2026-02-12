@@ -1,8 +1,7 @@
 
-
-<h3 align="center">123</h3>
-
-<h3 align="left">123</h3>
+<h2>Software Development student</h3>
+<h3>.NET</h3>
+<H3></H3>
 <p align="left">
 </p>
 
