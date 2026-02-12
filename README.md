@@ -8,7 +8,6 @@
   <li>.NET MAUI</li>
 </ul>
 
-<h3>🌐 Frontend</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
