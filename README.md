@@ -1,12 +1,13 @@
 <h1>👨‍💻 Software Development Student</h1>
 
-<h3>💻 Backend / .NET</h3>
+<h3>💻 .NET</h3>
 <ul>
   <li>.NET</li>
   <li>C#</li>
   <li>ASP.NET Razor Pages</li>
   <li>.NET MAUI</li>
 </ul>
+
 
 <ul>
   <li>HTML</li>
