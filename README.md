@@ -3,8 +3,9 @@
 <h3>💻 .NET</h3>
 <ul>
   <li>C#</li>
-  <li>ASP.NET Razor Pages</li>
-  <li>.NET MAUI</li>
+  <li>Razor Pages</li>
+  <li>MAUI</li>
+  <li>Entity FrameWork</li>
 </ul>
 <h3>🌐</h3>
 <ul>
