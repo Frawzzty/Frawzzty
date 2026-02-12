@@ -1,5 +1,17 @@
 ## .NET Student
 
+##.NET
+C#
+MAUI
+RAZOR PAGES
+Entity Framework
+
+
+##Database
+Azure
+Mongo DB
+SQL
+
 
 
 <!--
