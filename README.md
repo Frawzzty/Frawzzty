@@ -1,10 +1,10 @@
 ## .NET Student
 
-##.NET
-C#
-MAUI
-RAZOR PAGES
-Entity Framework
+## .NET
+## C#
+## MAUI
+## RAZOR PAGES
+## Entity Framework
 
 
 ##Database
