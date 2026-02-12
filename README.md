@@ -7,7 +7,6 @@
   <li>.NET MAUI</li>
 </ul>
 <br><br>
-<br><br>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
