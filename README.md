@@ -1,5 +1,5 @@
 <h1>👨‍💻 Software Development Student</h1>
-
+<h3>Technologies</h3>
 <h3>💻 </h3>
 <ul>
   <li>.NET, C#</li>
