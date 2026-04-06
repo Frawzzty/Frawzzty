@@ -20,6 +20,7 @@ Experiences
 <h3>🗄️ Databases</h3>
 <ul>
   <li>Microsoft SQL Server (MS SQL)</li>
+  <li>SQLite</li>
   <li>MongoDB</li>
 </ul>
 
