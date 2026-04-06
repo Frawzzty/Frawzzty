@@ -2,7 +2,7 @@
 Experiences
 <h3>💻 </h3>
 <ul>
-  <li>.NET, C#</li>
+  <li>.NET & C#</li>
   <li>.NET Blazor</li>
   <li>.NET MAUI</li>
   <li>.NET Razor Pages</li>
