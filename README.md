@@ -3,8 +3,9 @@ Experiences
 <h3>💻 </h3>
 <ul>
   <li>.NET, C#</li>
-  <li>Razor Pages</li>
-  <li>MAUI</li>
+  <li>.NET Blazor</li>
+  <li>.NET MAUI</li>
+  <li>.NET Razor Pages</li>
   <li>SQL Server</li>
   <li>SQLite</li>
   <li>MongoDb</li>
