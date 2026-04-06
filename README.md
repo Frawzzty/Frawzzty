@@ -5,7 +5,9 @@ Experiences
   <li>.NET, C#</li>
   <li>Razor Pages</li>
   <li>MAUI</li>
-  <li>SQL</li>
+  <li>SQL Server</li>
+  <li>SQLite</li>
+  <li>MongoDb</li>
   <li>Entity FrameWork</li>
 </ul>
 <h3>🌐</h3>
