@@ -6,9 +6,6 @@ Experiences
   <li>.NET Blazor</li>
   <li>.NET MAUI</li>
   <li>.NET Razor Pages</li>
-  <li>SQL Server</li>
-  <li>SQLite</li>
-  <li>MongoDb</li>
   <li>Entity FrameWork</li>
 </ul>
 <h3>🌐</h3>
